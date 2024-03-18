@@ -16,6 +16,9 @@ HTML5' CSS3, website layout. Cross-browser, adaptive layout for mobile devices, 
    📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
 </p>
 
+## 🛠 Technical Stack
+*   HTML/CSS/SCSS/JS
+
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/it2konst/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=it2konst&color=DE002D">
