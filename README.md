@@ -13,6 +13,7 @@ HTML5' CSS3, website layout. Cross-browser, adaptive layout for mobile devices, 
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
+   My website: <a href='https://it2konst.com'>https://it2konst.com</a>
    📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
 </p>
 
