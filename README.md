@@ -2,10 +2,7 @@
 HTML5' CSS3, website layout. Cross-browser, adaptive layout for mobile devices, code semantics, validity, CSS, SCSS. Work with graphic editors Figma, Photoshop. Basic knowledge of Javascript, jQuery.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"><img
-           height=150
-           src="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/it2konst/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=it2konst&layout=compact"/></a>
+   <a href="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"/></a>
 </p>
 
 <p align='center'>
