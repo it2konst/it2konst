@@ -1,8 +1,7 @@
 # Hi, I'm Konstantin 👋
 HTML5' CSS3, website layout. Cross-browser, adaptive layout for mobile devices, code semantics, validity, CSS, SCSS. Work with graphic editors Figma, Photoshop. Basic knowledge of Javascript, jQuery.
 
-<p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"/></a>
+<p align='center'><a href="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"/></a>
 </p>
 
 <p align='center'>
@@ -14,8 +13,13 @@ HTML5' CSS3, website layout. Cross-browser, adaptive layout for mobile devices, 
    <a href="https://t.me/RvsKonst">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
+</p>
+
 <p align='center'>
    My website: <a href='https://it2konst.com'>https://it2konst.com</a>
+</p>
+
+<p align='center'>
    📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
 </p>
 
