@@ -20,11 +20,14 @@ HTML5' CSS3, website layout. Cross-browser, adaptive layout for mobile devices, 
 
 <p align='center'>
    My website: <a href='https://it2konst.com'>https://it2konst.com</a>
-</p>
-
-<p align='center'>
    📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
 </p>
+
+<!--    
+   <p align='center'>
+   📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
+   </p>
+ -->
 
 ## 🛠 Technical Stack
 *   HTML/CSS/SCSS/JS
