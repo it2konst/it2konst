@@ -23,18 +23,14 @@ HTML5' CSS3, website layout. Cross-browser, adaptive layout for mobile devices, 
    <br>
    How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
 </p>
-
 <!--    
    <p align='center'>
    📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
    </p>
  -->
-
 ## 🛠 Technical Stack
-   <p align='center'>
-   *   HTML/CSS/SCSS/JS
-   </p>
-
+   <p align='center'>HTML/CSS/SCSS/JS</p>
+   
 <div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
