@@ -28,8 +28,10 @@ HTML5' CSS3, website layout. Cross-browser, adaptive layout for mobile devices, 
    📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
    </p>
  -->
-## 🛠 Technical Stack
-   <p align='center'>HTML/CSS/SCSS/JS</p>
+   <p align='center'>
+      🛠 Technical Stack
+      HTML/CSS/SCSS/JS
+   </p>
    
 <div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
