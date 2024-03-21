@@ -29,7 +29,8 @@ HTML5' CSS3, website layout. Cross-browser, adaptive layout for mobile devices, 
    </p>
  -->
    <p align='center'>
-      🛠 Technical Stack
+      🛠 Technical Stack:
+      <br>
       HTML/CSS/SCSS/JS
    </p>
    
