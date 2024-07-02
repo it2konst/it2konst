@@ -31,7 +31,7 @@ HTML5' CSS3, website layout. Cross-browser, adaptive layout for mobile devices, 
    <p align='center'>
       🛠 Technical Stack:
       <br>
-      HTML/CSS/SCSS/JS
+      HTML/CSS/SCSS/JavaScript/Vite/Vue3
    </p>
    
 <div align="center">
@@ -41,7 +41,6 @@ HTML5' CSS3, website layout. Cross-browser, adaptive layout for mobile devices, 
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vitejs" alt="vitejs" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="gulp" alt="gulp" width="40" height="40"/>&nbsp;
 </div>
 <br>
 <div align="center" style="margin: 40px 0">
