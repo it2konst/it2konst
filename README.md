@@ -21,7 +21,7 @@ Hello! I am a frontend developer specializing in creating modern and functional 
 </p>
 
 <p align='center'>
-   My website: <a href='https://it2konst.com'>https://it2konst.com</a>
+   My website: <a href='https://it2konst.github.io/all-pro/'>https://it2konst.github.io/all-pro/</a>
    <br>
    How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
 </p>
