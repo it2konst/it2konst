@@ -33,7 +33,6 @@ Hello! I am a frontend developer specializing in creating modern and functional 
    <p align='center'>
       🛠 Technical Stack:
       <br>
-      HTML/CSS/SCSS/JavaScript/Vite
    </p>
    
 <div align="center">
