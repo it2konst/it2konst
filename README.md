@@ -7,11 +7,6 @@ Hello! I am a frontend developer specializing in creating modern and functional 
 </p>
 
 <p align='center'>
-   <!--    
-   <a href="https://www.linkedin.com/in/it2konst/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a> 
-   -->
    <a href="https://www.youtube.com/@RVSKonst">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
    </a>
@@ -21,19 +16,15 @@ Hello! I am a frontend developer specializing in creating modern and functional 
 </p>
 
 <p align='center'>
-   My website: <a href='https://it2konst.github.io/all-pro/'>it2konst.github.io/all-pro</a>
+   ✨ My website: <a href='https://konst-portfolio.vercel.app'>konst-portfolio.vercel.app</a>
    <br>
-   How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
-</p>
-<!--    
-   <p align='center'>
    📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
-   </p>
- -->
-   <p align='center'>
-      🛠 Technical Stack:
-      <br>
-   </p>
+</p>
+
+<p align='center'>
+   🛠 Technical Stack:
+   <br>
+</p>
    
 <div align="center">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -49,12 +40,9 @@ Hello! I am a frontend developer specializing in creating modern and functional 
    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vitejs" alt="vitejs" width="40" height="40"/>&nbsp;
 </div>
 <br>
+
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/it2konst/github-profile-views-counter">
        <img width="175px" src="https://komarev.com/ghpvc/?username=it2konst&color=DE002D">
    </a>
 </div>
-<!---
-it2konst/it2konst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
