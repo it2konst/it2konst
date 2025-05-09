@@ -1,8 +1,8 @@
 # Hi, I'm Konstantin 👋
 
-Hello! I’m a professional frontend developer, officially working in my field. I specialize in building modern and functional CRM systems using cutting-edge technologies like Vue 3, Vuetify, TypeScript, and SCSS. My focus is on creating high-quality, scalable, and user-friendly interfaces that deliver an exceptional user experience.
+Hello! I’m a professional frontend developer, officially working in my field. I specialize in building modern and functional websites and CRM systems using cutting-edge technologies like Vue 3, Vuetify, TypeScript, and SCSS. My focus is on creating high-quality, scalable, and user-friendly interfaces that deliver an exceptional user experience.
 
-Привет! Я Vue фронтенд-разработчик, официально работающий по специальности. Специализируюсь на разработке современных и функциональных CRM-систем, используя передовые технологии, такие как Vue 3, Vuetify, TypeScript и SCSS. Мой подход ориентирован на создание высококачественных, масштабируемых и удобных интерфейсов, обеспечивающих оптимальный пользовательский опыт.
+Привет! Я профессиональный фронтенд-разработчик, официально работающий по специальности. Специализируюсь на разработке современных и функциональных веб-сайтов и CRM-систем, используя передовые технологии, такие как Vue 3, Vuetify, TypeScript и SCSS. Мой подход ориентирован на создание высококачественных, масштабируемых и удобных интерфейсов, обеспечивающих оптимальный пользовательский опыт.
 
 <hr>
 <!--
