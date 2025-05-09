@@ -39,7 +39,8 @@ Hello! I’m a professional frontend developer, officially working in my field. 
 <hr>
 
 <p align='center'>
-   ✨ My website: <a href='https://konst-portfolio.vercel.app'>konst-portfolio.vercel.app</a>
+   ✨ My website:<br>
+   <a href='https://konst-portfolio.vercel.app'>https://konst-portfolio.vercel.app</a>
    <!--
    <br>
    📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
