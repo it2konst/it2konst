@@ -1,7 +1,8 @@
 # Hi, I'm Konstantin 👋
-Hello! I am a frontend developer specializing in creating modern and functional websites using HTML, CSS, JavaScript, as well as working with React and Vue 3. I pay special attention to code semantics and validity, and I adhere to the BEM methodology to ensure cross-browser compatibility and responsive design for mobile devices. My experience with graphic editors Figma and Photoshop enables me to create visually appealing and intuitive interfaces.
 
-Привет! Я фронтенд разработчик, специализирующийся на создании современных и функциональных веб-сайтов с использованием HTML5, CSS3, JavaScript, а также работаю с React и Vue 3. Я уделяю особое внимание семантике кода и его валидности, а также придерживаюсь методологии BEM для обеспечения кроссбраузерности и адаптивного дизайна для мобильных устройств. Мой опыт работы с графическими редакторами Figma и Photoshop позволяет мне создавать визуально привлекательные и интуитивно понятные интерфейсы.
+Hello! I’m a professional frontend developer, officially working in my field. I specialize in building modern and functional CRM systems using cutting-edge technologies like Vue 3, Vuetify, TypeScript, and SCSS. My focus is on creating high-quality, scalable, and user-friendly interfaces that deliver an exceptional user experience.
+
+Привет! Я Vue фронтенд-разработчик, официально работающий по специальности. Специализируюсь на разработке современных и функциональных CRM-систем, используя передовые технологии, такие как Vue 3, Vuetify, TypeScript и SCSS. Мой подход ориентирован на создание высококачественных, масштабируемых и удобных интерфейсов, обеспечивающих оптимальный пользовательский опыт.
 
 <p align='center'><a href="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"/></a>
 </p>
@@ -33,11 +34,10 @@ Hello! I am a frontend developer specializing in creating modern and functional 
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
    <br>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxtjs" alt="vuejs" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vuetify" alt="vuetify" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxtjs" alt="nuxtjs" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vitejs" alt="vitejs" width="40" height="40"/>&nbsp;
 </div>
 <br>
