@@ -4,8 +4,10 @@ Hello! I’m a professional frontend developer, officially working in my field. 
 
 Привет! Я Vue фронтенд-разработчик, официально работающий по специальности. Специализируюсь на разработке современных и функциональных CRM-систем, используя передовые технологии, такие как Vue 3, Vuetify, TypeScript и SCSS. Мой подход ориентирован на создание высококачественных, масштабируемых и удобных интерфейсов, обеспечивающих оптимальный пользовательский опыт.
 
+<!--
 <p align='center'><a href="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"/></a>
 </p>
+-->
 
 <p align='center'>
    <a href="https://www.youtube.com/@RVSKonst">
