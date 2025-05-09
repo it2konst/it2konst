@@ -35,8 +35,7 @@ Hello! I’m a frontend developer, officially working in my field. I specialize 
        <img width="175px" src="https://komarev.com/ghpvc/?username=it2konst&color=DE002D">
    </a>
 </div>
-
-<hr>
+<br>
 
 <p align='center'>
    ✨ My website:<br>
