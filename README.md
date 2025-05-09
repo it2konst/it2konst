@@ -39,18 +39,20 @@ Hello! I’m a professional frontend developer, officially working in my field. 
 <hr>
 
 <p align='center'>
-   <a href="https://www.youtube.com/@RVSKonst">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-   </a>
-   <a href="https://t.me/RvsKonst">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-</p>
-
-<p align='center'>
    ✨ My website: <a href='https://konst-portfolio.vercel.app'>konst-portfolio.vercel.app</a>
    <!--
    <br>
    📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
+   -->
+</p>
+
+<p align='center'>
+   <a href="https://www.youtube.com/@RVSKonst">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+   </a>
+   <!--
+   <a href="https://t.me/RvsKonst">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
    -->
 </p>
