@@ -4,25 +4,11 @@ Hello! I’m a professional frontend developer, officially working in my field. 
 
 Привет! Я Vue фронтенд-разработчик, официально работающий по специальности. Специализируюсь на разработке современных и функциональных CRM-систем, используя передовые технологии, такие как Vue 3, Vuetify, TypeScript и SCSS. Мой подход ориентирован на создание высококачественных, масштабируемых и удобных интерфейсов, обеспечивающих оптимальный пользовательский опыт.
 
+<hr>
 <!--
 <p align='center'><a href="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"/></a>
 </p>
 -->
-
-<p align='center'>
-   <a href="https://www.youtube.com/@RVSKonst">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-   </a>
-   <a href="https://t.me/RvsKonst">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-</p>
-
-<p align='center'>
-   ✨ My website: <a href='https://konst-portfolio.vercel.app'>konst-portfolio.vercel.app</a>
-   <br>
-   📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
-</p>
 
 <p align='center'>
    🛠 Technical Stack:
@@ -49,3 +35,20 @@ Hello! I’m a professional frontend developer, officially working in my field. 
        <img width="175px" src="https://komarev.com/ghpvc/?username=it2konst&color=DE002D">
    </a>
 </div>
+
+<hr>
+
+<p align='center'>
+   <a href="https://www.youtube.com/@RVSKonst">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+   </a>
+   <a href="https://t.me/RvsKonst">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+</p>
+
+<p align='center'>
+   ✨ My website: <a href='https://konst-portfolio.vercel.app'>konst-portfolio.vercel.app</a>
+   <br>
+   📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
+</p>
