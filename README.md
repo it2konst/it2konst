@@ -4,8 +4,8 @@ Hello! I’m a frontend developer, officially working in my field. I specialize 
 
 Привет! Я фронтенд-разработчик, официально работающий по специальности. Специализируюсь на создании современных и функциональных веб-сайтов и CRM-систем с использованием Vue 3, Vuetify, TypeScript и SCSS. Стремлюсь к разработке высококачественных, масштабируемых и удобных интерфейсов, обеспечивающих превосходный пользовательский опыт.
 
-<hr>
 <!--
+<hr>
 <p align='center'><a href="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"/></a>
 </p>
 -->
@@ -38,8 +38,7 @@ Hello! I’m a frontend developer, officially working in my field. I specialize 
 <br>
 
 <p align='center'>
-   ✨ My website:<br>
-   <a href='https://konst-portfolio.vercel.app'>https://konst-portfolio.vercel.app</a>
+   ✨ My website: <a href='https://konst-portfolio.vercel.app'>konst-portfolio.vercel.app</a>
    <!--
    <br>
    📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
