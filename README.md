@@ -66,7 +66,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-konst--portfolio.vercel.app-DE002D?style=for-the-badge&logo=vercel&logoColor=white)](https://konst-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-vtkonst@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vtkonst@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-@RVSKonst-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RVSKonst)
-[![Telegram](https://img.shields.io/badge/Telegram-@RvsKonst-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RvsKonst)
 
 </div>
 
