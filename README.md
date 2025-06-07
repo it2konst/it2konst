@@ -1,56 +1,81 @@
-# Hi, I'm Konstantin 👋
+# Hi there, I'm Konstantin! 👋
 
-Hello! I’m a frontend developer, officially working in my field. I specialize in building modern and functional websites and CRM systems using Vue 3, Vuetify, TypeScript, and SCSS. My focus is on creating high-quality, scalable, and user-friendly interfaces that provide an outstanding user experience.
-
-Привет! Я фронтенд-разработчик, официально работающий по специальности. Специализируюсь на создании современных и функциональных веб-сайтов и CRM-систем с использованием Vue 3, Vuetify, TypeScript и SCSS. Стремлюсь к разработке высококачественных, масштабируемых и удобных интерфейсов, обеспечивающих превосходный пользовательский опыт.
-
-<!--
-<hr>
-<p align='center'><a href="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true"/></a>
-</p>
--->
-
-<p align='center'>
-   🛠 Technical Stack:
-   <br>
-</p>
-   
 <div align="center">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-   <br>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" title="vuetify" alt="vuetify" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" title="nuxtjs" alt="nuxtjs" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vitejs" alt="vitejs" width="40" height="40"/>&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DE002D&center=true&vCenter=true&width=435&lines=Frontend+Developer;Vue+3+%7C+TypeScript+%7C+SCSS;Building+Modern+Web+Solutions" alt="Typing SVG" />
 </div>
-<br>
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/it2konst/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=it2konst&color=DE002D">
-   </a>
+## 👨‍💻 About Me
+
+🚀 **Frontend Developer** specializing in building modern and functional websites and CRM systems  
+🎯 Focused on creating high-quality, scalable, and user-friendly interfaces  
+💡 Passionate about delivering outstanding user experiences  
+🌍 Working with international teams and projects
+
+> *"Transforming ideas into elegant, functional web solutions"*
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+### Frontend Core
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+
+### Styling & Tools
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
 </div>
-<br>
 
-<p align='center'>
-   ✨ My website: <a href='https://konst-portfolio.vercel.app'>konst-portfolio.vercel.app</a>
-   <!--
-   <br>
-   📫 How to reach me: <a href='mailto:vtkonst@gmail.com'>vtkonst@gmail.com</a>
-   -->
-</p>
-<!--
-<p align='center'>
-   <a href="https://www.youtube.com/@RVSKonst">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-   </a>
-   <a href="https://t.me/RvsKonst">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
-</p>
--->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=it2konst&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it2konst&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it2konst&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+## 🎯 Current Focus
+
+- 🔭 Working on enterprise CRM systems with Vue 3 and TypeScript
+- 🌱 Exploring advanced Vue 3 Composition API patterns
+- 👯 Looking to collaborate on open-source Vue.js projects
+- 💬 Ask me about frontend development, Vue ecosystem, or UI/UX best practices
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=it2konst&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-konst--portfolio.vercel.app-DE002D?style=for-the-badge&logo=vercel&logoColor=white)](https://konst-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-vtkonst@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vtkonst@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@RVSKonst-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RVSKonst)
+[![Telegram](https://img.shields.io/badge/Telegram-@RvsKonst-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RvsKonst)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=it2konst&color=DE002D&style=for-the-badge" alt="Profile views" />
+  
+  ### Thanks for visiting! 😊
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
