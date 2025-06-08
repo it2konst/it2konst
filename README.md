@@ -1,7 +1,7 @@
 # Hi there, I'm Konstantin! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DE002D&center=true&vCenter=true&width=435&lines=Frontend+Developer;Vue+3+%7C+TypeScript+%7C+SCSS;Building+Modern+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Frontend+Developer;Vue+3+%7C+TypeScript+%7C+SCSS;Building+Modern+Web+Solutions" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
@@ -53,19 +53,13 @@
 - 👯 Looking to collaborate on open-source Vue.js projects
 - 💬 Ask me about frontend development, Vue ecosystem, or UI/UX best practices
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=it2konst&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-konst--portfolio.vercel.app-DE002D?style=for-the-badge&logo=vercel&logoColor=white)](https://konst-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-vtkonst@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vtkonst@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-@RVSKonst-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RVSKonst)
+[![Portfolio](https://img.shields.io/badge/Portfolio-konst--portfolio.vercel.app-CC6699?style=for-the-badge&logo=vercel&logoColor=white)](https://konst-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-vtkonst@gmail.com-1867C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vtkonst@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@RVSKonst-38B2AC?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RVSKonst)
 
 </div>
 
@@ -76,5 +70,4 @@
   
   ### Thanks for visiting! 😊
   
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
