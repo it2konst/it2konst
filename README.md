@@ -26,7 +26,9 @@
 ### Frameworks & Libraries
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![PrimeVue](https://img.shields.io/badge/PrimeVue-4F46E5?style=for-the-badge&logo=primevue&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-689F38?style=for-the-badge&logo=pinia&logoColor=white)
 
 ### Styling & Tools
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
