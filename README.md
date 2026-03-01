@@ -38,16 +38,8 @@
 
 </div>
 
-## 🔥 Featured Projects
-
-### 🎮 [GameTunnel](https://github.com/it2konst/gametunnel-core)
-
-UDP transport protocol for low-latency gaming and streaming. Built on top of xray-core with ChaCha20-Poly1305 encryption, Curve25519 key exchange, and QUIC-like packet structure.
-
-- **[gametunnel-core](https://github.com/it2konst/gametunnel-core)** - transport engine (Go)
-- **[gametunnel-client](https://github.com/it2konst/gametunnel-client)** - GUI client based on v2rayN (C# / .NET / Avalonia)
-
 ## 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=it2konst&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=it2konst&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
