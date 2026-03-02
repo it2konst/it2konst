@@ -30,8 +30,6 @@
 ### Backend & Networking
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -61,7 +59,6 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-konst--portfolio.vercel.app-CC6699?style=for-the-badge&logo=vercel&logoColor=white)](https://konst-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-vtkonst@gmail.com-1867C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vtkonst@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-@RVSKonst-38B2AC?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RVSKonst)
 
 </div>
