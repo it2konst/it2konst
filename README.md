@@ -1,10 +1,8 @@
 # Hi there, I'm Konstantin! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+Network+Engineer;Vue+3+%7C+TypeScript+%7C+Go+%7C+C%23;Building+Modern+Web+%26+Network+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Frontend+Developer+%7C+Network+Engineer;Vue+3+%7C+TypeScript+%7C+Go;Building+Modern+Web+%26+Network+Solutions" alt="Typing SVG" />
 </div>
-
-## 👨‍💻 About Me
 
 🚀 **Frontend Developer & Network Engineer** building modern web applications and low-level networking tools  
 🎯 Focused on creating high-quality, scalable, and user-friendly solutions  
