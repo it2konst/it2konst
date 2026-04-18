@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-konst--portfolio.vercel.app-CC6699?style=for-the-badge&logo=vercel&logoColor=white)](https://konst-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-konst--portfolio.vercel.app-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://konst-portfolio.vercel.app)
 
 </div>
 
