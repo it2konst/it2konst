@@ -57,7 +57,6 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-konst--portfolio.vercel.app-CC6699?style=for-the-badge&logo=vercel&logoColor=white)](https://konst-portfolio.vercel.app)
-[![YouTube](https://img.shields.io/badge/YouTube-@RVSKonst-38B2AC?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RVSKonst)
 
 </div>
 
