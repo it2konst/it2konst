@@ -49,9 +49,9 @@
 | [**konst-portfolio**](https://github.com/it2konst/konst-portfolio) · [live](https://konst-portfolio.vercel.app) | My portfolio website with server-side rendering | Nuxt · TypeScript · SCSS |
 | [**vue-sneakers**](https://github.com/it2konst/vue-sneakers) · [live](https://vue-sneakers-rho-brown.vercel.app) | Sneaker online store that loads its catalog from a server | Vue 3 |
 | [**es-lp**](https://github.com/it2konst/es-lp) | LinguaBoost - landing page for an English school | Vue 3 · SCSS · Vite |
-| [**technoprofi**](https://github.com/it2konst/technoprofi) | Website for a company providing technical support to factories | JavaScript |
-| [**passforge**](https://github.com/it2konst/passforge) · [live](https://htmlpreview.github.io/?https://github.com/it2konst/passforge/blob/main/index.html) | Client-side secure password generator. Fully offline | Vue 3 · TypeScript · Vuetify |
-| [**svg-forge**](https://github.com/it2konst/svg-forge) · [live](https://svg-forge-two.vercel.app) | SVG optimizer that runs entirely in the browser with SVGO | Vue 3 · TypeScript |
+| [**technoprofi**](https://github.com/it2konst/technoprofi) | Website for a company providing technical support to factories | HTML · CSS · JavaScript |
+| [**passforge**](https://github.com/it2konst/passforge) · [live](https://htmlpreview.github.io/?https://github.com/it2konst/passforge/blob/main/index.html) | Client-side secure password generator. Fully offline | HTML · CSS · JavaScript |
+| [**svg-forge**](https://github.com/it2konst/svg-forge) · [live](https://svg-forge-two.vercel.app) | SVG optimizer that runs entirely in the browser with SVGO | Vue 3 · TypeScript · Vuetify |
 
 ## 📊 GitHub activity
 
