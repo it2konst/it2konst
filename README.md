@@ -12,9 +12,10 @@
 
 ## 🧑‍💻 About me
 
-- 🚀 **Frontend developer & network engineer** - I build modern web apps and low-level networking tools
-- 🎮 Developing **GameTunnel** - a UDP transport for real-time gaming and streaming
+- 🚀 **Frontend developer & network engineer**: I build modern web apps and low-level networking tools
+- 🧰 Making **browser-only tools**: files stay on your device, nothing is uploaded, and the apps install and work offline
 - 🖥️ Building enterprise CRM systems with **Vue 3** and **TypeScript**
+- 🎮 Developing **GameTunnel**, a UDP transport for real-time gaming and streaming
 - 🌱 Going deeper into Go networking and cryptography
 - 🌍 Working with international teams, open to open-source collaboration
 - 💬 Ask me about the Vue ecosystem, frontend architecture, networking or UDP transports
@@ -29,9 +30,12 @@
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 
 **Backend & networking**
 
@@ -46,9 +50,10 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**pass-forge**](https://github.com/it2konst/passforge) · [live](https://htmlpreview.github.io/?https://github.com/it2konst/passforge/blob/main/index.html) | Client-side secure password generator. Fully offline | HTML · CSS · JavaScript |
-| [**svg-forge**](https://github.com/it2konst/svg-forge) · [live](https://svg-forge-two.vercel.app) | SVG optimizer that runs entirely in the browser with SVGO | Vue 3 · TypeScript · Vuetify |
-| [**svg-forge**](https://github.com/it2konst/canvas-forge) · [live](https://canvas-forge-beta.vercel.app) | A Paint-style image editor that runs entirely in the browser | Vue 3 · TypeScript · Vuetify |
+| [**canvas-forge**](https://github.com/it2konst/canvas-forge) · [live](https://canvas-forge-beta.vercel.app) | A Paint-style image editor in the browser: 11 tools, layers, selection and clipboard, zoom up to 6400% and undo for every change. Installable, works offline | Vue 3 · TypeScript · Canvas API · Vuetify · Vitest |
+| [**svg-forge**](https://github.com/it2konst/svg-forge) · [live](https://svg-forge-two.vercel.app) | An SVG optimizer in the browser: SVGO 4 in Web Workers, batch processing, export as a Vue component, CSS or an SVG sprite. Installable, works offline | Vue 3 · TypeScript · SVGO · Vuetify · Vitest |
+| [**passforge**](https://github.com/it2konst/passforge) · [live](https://htmlpreview.github.io/?https://github.com/it2konst/passforge/blob/main/index.html) | A password generator in one file with zero dependencies and zero network requests: unbiased crypto-grade randomness and a strength meter based on real entropy | HTML · CSS · JavaScript |
+| [**game-tun**](https://github.com/it2konst/game-tun) | A fork of Xray-core with GameTunnel, my own UDP transport for latency-sensitive games and streaming | Go |
 
 ## 📊 GitHub activity
 
