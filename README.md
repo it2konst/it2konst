@@ -46,9 +46,9 @@
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**konst-portfolio**](https://github.com/it2konst/konst-portfolio) · [live](https://konst-portfolio.vercel.app) | My portfolio website with server-side rendering | Nuxt · TypeScript · SCSS |
-| [**passforge**](https://github.com/it2konst/passforge) · [live](https://htmlpreview.github.io/?https://github.com/it2konst/passforge/blob/main/index.html) | Client-side secure password generator. Fully offline | HTML · CSS · JavaScript |
+| [**pass-forge**](https://github.com/it2konst/passforge) · [live](https://htmlpreview.github.io/?https://github.com/it2konst/passforge/blob/main/index.html) | Client-side secure password generator. Fully offline | HTML · CSS · JavaScript |
 | [**svg-forge**](https://github.com/it2konst/svg-forge) · [live](https://svg-forge-two.vercel.app) | SVG optimizer that runs entirely in the browser with SVGO | Vue 3 · TypeScript · Vuetify |
+| [**svg-forge**](https://github.com/it2konst/canvas-forge) · [live](https://canvas-forge-beta.vercel.app) | A Paint-style image editor that runs entirely in the browser | Vue 3 · TypeScript · Vuetify |
 
 ## 📊 GitHub activity
 
